@@ -777,7 +777,7 @@
         <div class="footer-section">
           <h3>Kontak Kami</h3>
           <ul>
-            <li><a href="https://wa.me/"><img src="assets/wa.svg" alt="WA">Whatsapp</a></li>
+            <li><a href="https://wa.me/6285733530629"><img src="assets/wa.svg" alt="WA">Whatsapp</a></li>
             <li><a href="https://www.instagram.com/morgen08.official/"><img src="assets/ig.svg" alt="IG">Instagram</a></li>
             <li><a href="https://tiktok.com/@pemuda.kartar08"><img src="assets/tt.svg" alt="TT">Tiktok</a></li>
           </ul>
